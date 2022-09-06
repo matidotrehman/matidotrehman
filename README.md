@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matidotrehman
-- 👀 I just love to code in languages that i don't knwo and want to have their boilerplates ready on my GIT
-- 🌱 I’m currently learning ROR
-- 💞️ I’m looking to collaborate on ROR Boierplate.
+- 👀 I just love to code in different languages have exppertise in .NET and Angular
+- 🌱 I’m currently learning different stacks.
+- 💞️ I’m looking to collaborate on Boierplates of any tech stack.
 - 📫 How to reach me : mail me on matidotrehman@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matidotrehman
-- 👀 I just love to code in different languages have exppertise in .NET and Angular
+- 👀 I just love to code in different languages have expertise in .NET and Angular
 - 🌱 I’m currently learning different stacks.
 - 💞️ I’m looking to collaborate on Boierplates of any tech stack.
 - 📫 How to reach me : mail me on matidotrehman@gmail.com

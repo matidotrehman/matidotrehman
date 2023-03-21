@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @matidotrehman
-- 👀 I just love to code in different languages have expertise in .NET and Angular
-- 🌱 I’m currently learning different stacks.
-- 💞️ I’m looking to collaborate on Boierplates of any tech stack.
-- 📫 How to reach me : mail me on matidotrehman@gmail.com
+A passionate .NET developer
 
 <!---
 matidotrehman/matidotrehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
